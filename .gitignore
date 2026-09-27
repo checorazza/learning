@@ -1,0 +1,16 @@
+# --- Obsidian: estado local de la sesión ---
+# Pestañas abiertas, paneles y última nota vista. Cambia cada vez que usás el vault.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Papelera interna de Obsidian
+.trash/
+
+# --- Obsidian: plugins personales ---
+# Muestra tu actividad en Discord; no tiene sentido para quien clone el repo.
+.obsidian/plugins/obsidian-discordrpc/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
