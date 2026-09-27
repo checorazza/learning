@@ -22,6 +22,7 @@ Los diagramas están hechos con [Mermaid](https://mermaid.js.org), que Obsidian 
 
 | Categoría | Carpeta | Notas |
 |---|---|---|
+| DevOps | [`devops/`](devops/) | [Feature flags](devops/feature-flags.md) |
 | IA / LLMs | [`ia-llms/`](ia-llms/) | [MCP (Model Context Protocol)](ia-llms/mcp.md) |
 
 ## Convenciones de las notas
