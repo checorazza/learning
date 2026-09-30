@@ -21,6 +21,7 @@ Los diagramas están hechos con [Mermaid](https://mermaid.js.org), que Obsidian 
 ## Índice
 
 - **[DevOps](devops/)**
+  - [Docker](devops/docker.md)
   - [Feature flags](devops/feature-flags.md)
 - **[Fundamentos](fundamentos/)**
   - [Patrones de diseño](fundamentos/patrones-de-diseno.md)
