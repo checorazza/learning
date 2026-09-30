@@ -20,10 +20,13 @@ Los diagramas están hechos con [Mermaid](https://mermaid.js.org), que Obsidian 
 
 ## Índice
 
-| Categoría | Carpeta | Notas |
-|---|---|---|
-| DevOps | [`devops/`](devops/) | [Feature flags](devops/feature-flags.md) |
-| IA / LLMs | [`ia-llms/`](ia-llms/) | [MCP (Model Context Protocol)](ia-llms/mcp.md) |
+- **[DevOps](devops/)**
+  - [Feature flags](devops/feature-flags.md)
+- **[Fundamentos](fundamentos/)**
+  - [Patrones de diseño](fundamentos/patrones-de-diseno.md)
+  - [Principios SOLID](fundamentos/solid.md)
+- **[IA / LLMs](ia-llms/)**
+  - [MCP (Model Context Protocol)](ia-llms/mcp.md)
 
 ## Convenciones de las notas
 
@@ -35,6 +38,8 @@ Los diagramas están hechos con [Mermaid](https://mermaid.js.org), que Obsidian 
 |---|---|
 | `[!abstract]` | Resumen del tema al inicio de la nota |
 | `[!example]` | Analogías y ejemplos |
+| `[!question]` | El problema que resuelve un concepto |
+| `[!quote]` | Definición original de un concepto, con su autor |
 | `[!info]` / `[!note]` | Contexto o aclaraciones |
 | `[!tip]` | Trucos y formas de recordar algo |
 | `[!warning]` / `[!danger]` | Riesgos, errores comunes, seguridad |
