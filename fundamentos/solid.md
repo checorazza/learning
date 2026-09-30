@@ -497,7 +497,7 @@ print("Test OK")
 > La inyección es la forma más común de cumplir la inversión, pero no son lo mismo. Frameworks como FastAPI, Spring o NestJS automatizan la inyección.
 
 > [!info] La base de la arquitectura limpia
-> Llevado a toda una aplicación, este principio es el corazón de la [[Arquitectura limpia]] y la arquitectura hexagonal: el dominio en el centro, sin depender de frameworks ni bases de datos.
+> Llevado a toda una aplicación, este principio es el corazón de la [[arquitectura-limpia|Arquitectura limpia]] y la arquitectura hexagonal: el dominio en el centro, sin depender de frameworks ni bases de datos.
 
 ---
 

@@ -703,4 +703,4 @@ flowchart TD
 
 ## Relación con otros principios
 
-Los patrones son aplicaciones concretas de principios más generales como [[SOLID]]: Strategy y Decorator aplican el principio abierto/cerrado; Adapter y Facade reducen el acoplamiento; y casi todos dependen de abstracciones en lugar de clases concretas (inversión de dependencias). A nivel de sistema completo, las mismas ideas reaparecen en la [[Arquitectura limpia]].
+Los patrones son aplicaciones concretas de principios más generales como [[SOLID]]: Strategy y Decorator aplican el principio abierto/cerrado; Adapter y Facade reducen el acoplamiento; y casi todos dependen de abstracciones en lugar de clases concretas (inversión de dependencias). A nivel de sistema completo, las mismas ideas reaparecen en la [[arquitectura-limpia|Arquitectura limpia]].

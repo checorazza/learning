@@ -24,6 +24,7 @@ Los diagramas están hechos con [Mermaid](https://mermaid.js.org), que Obsidian 
   - [Docker](devops/docker.md)
   - [Feature flags](devops/feature-flags.md)
 - **[Fundamentos](fundamentos/)**
+  - [Arquitectura limpia, hexagonal y screaming](fundamentos/arquitectura-limpia.md)
   - [Patrones de diseño](fundamentos/patrones-de-diseno.md)
   - [Principios SOLID](fundamentos/solid.md)
 - **[IA / LLMs](ia-llms/)**
